@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on @visualcamp as ML research engineer.
 - 🌱 I’m currently learning ML and DL especially related to computer vision.
 - 🤔 I’m interested in generative model, domain adaptation, and MLops.
-- 😄 I'm also learning about backend and making infrastructure.
+- 😄 I'm also studying about backend and infrastructure.
 
 </br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -26,8 +26,9 @@
 <!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp  -->
 </p>
 
-
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsh-dev)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 <!--
 **hsh-dev/hsh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
