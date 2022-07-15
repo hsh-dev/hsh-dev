@@ -26,9 +26,9 @@
 <!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp  -->
 </p>
 
-<p align="center">
+</br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsh-dev)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 <!--
 **hsh-dev/hsh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
