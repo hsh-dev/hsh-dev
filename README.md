@@ -1,6 +1,4 @@
 ### Hi 👋 
-- 🔭 I’m currently working on @visualcamp as ML research engineer.
-- 🌱 I’m currently learning ML and DL especially related to computer vision.
 - 🤔 I’m interested in generative model, domain adaptation, and MLops.
 - 😄 I'm also studying about backend and infrastructure.
 
