@@ -1,6 +1,13 @@
 ### Hi 👋 
-- 🤔 I’m interested in generative model, domain adaptation, and MLops.
-- 😄 I'm also studying about backend and infrastructure.
+- 😄 I'm machine learning engineer, currently attending Seoul National University.
+- 🤔 I’m interested in recommendation system, generative model and domain generalization. 
+- 😆 I'm also studying about MLops which can help machine learning engineers do better research.
+- 💬 If you want some coffee chat, contact me in email or LinkedIn.
+
+Email : h2o0318@snu.ac.kr 
+<br/>
+LinkedIn : https://www.linkedin.com/in/seonghun-hong-635566229/
+
 
 </br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
