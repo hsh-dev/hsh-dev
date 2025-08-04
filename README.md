@@ -4,11 +4,6 @@
 - 😆 I'm also studying about MLops which can help machine learning engineers do better research.
 - 💬 If you want some coffee chat, contact me in email or LinkedIn.
 
-Email : h2o0318@snu.ac.kr 
-<br/>
-LinkedIn : https://www.linkedin.com/in/seonghun-hong-635566229/
-
-
 </br>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
